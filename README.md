@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gourav4459
-- 👀 I’m interested in 
+- 👀 I’m interested in CP
 - 🌱 I’m currently learning c++ python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to learn new things 
 - 📫 How to reach me gouravk4459@gmail.com
 
 <!---
